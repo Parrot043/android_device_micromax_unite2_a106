@@ -9,7 +9,7 @@ GPU     | Mali-400MP2
 Memory  | 1GB RAM
 Shipped Android Version | 4.4.2
 Storage | 4/8 GB
-Battery | 2000 mAh
+Battery | 2100 mAh
 Display | 4.7" 480 x 800 px
 Camera  | 8MPx, LED Flash
 
@@ -44,18 +44,3 @@ This branch is for building LineageOS 13.0 ROMs.
   * source build/envsetup.sh
   * brunch a106
   * Done :)
-  
-# Credits/Thanks to:-
-  * Fire855 
-  * Axet
-  * chrmhoffmann
-  * DerTeufel1980
-  * Al3XKOoL
-  * xen0n
-  * kashifmin
-  * hyperion70
-  * tribetmen
-  * CyanogenMod Team
-  * hejsekvojtech (For his Device Tree as Base)
-  * manjotsidhu
-  * EndLess728
